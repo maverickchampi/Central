@@ -172,7 +172,7 @@
 
 	<!-- Js scripts -->
 	<script src="https://kit.fontawesome.com/905fa6d085.js"></script>
-	<!-- <script src="assets/js/function.js"></script> -->
+	<script src="assets/js/function.js"></script>
 	<!-- <script src="assets/js/function-login.js"></script> -->
 	<!-- //Js scripts -->
 </body>
