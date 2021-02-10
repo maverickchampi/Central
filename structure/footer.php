@@ -59,4 +59,6 @@
         </div>
     </div>
 </footer>
+
+<script src="assets/js/block.js"></script>
 <!-- //Footer -->
