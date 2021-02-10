@@ -119,7 +119,6 @@
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src="assets/js/alertify.min.js" type="text/javascript"></script>
 	<script src="assets/js/block.js"></script>
-	${mensaje}
 	<!-- //Js scripts -->
 </body>
 </html>
